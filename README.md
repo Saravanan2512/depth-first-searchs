@@ -101,7 +101,7 @@ C G
 D F
 G F
 F H
-
+```
 # Output:
 ![image](https://github.com/user-attachments/assets/56fdbbc2-f2a5-455a-95da-909b5789f05d)
 
